@@ -127,10 +127,8 @@ patterns across the year.
 Uber-User-Data-Analysis/
 │
 ├── UberDataset.xlsx
-├── Uber_User_Data_Analysis.ipynb
+├── project.ipynb
 ├── README.md
-└── images/
-    └── (visualizations, if added)
 ```
 
 ## How to Run
@@ -160,4 +158,4 @@ understand trip behavior and mileage patterns.
 
 ## Author
 
-**Niraj Kumar**
+**Niraj Kumar Maurya**
